@@ -12,7 +12,7 @@ grayColour="\e[0;37m\033[1m"
 
 #variables Globales
 
-directorio_proyecto="/home/manuel/ProyectoPoo/Sales-System-Java-MySQL"
+directorio_proyecto="cambiar por ruta del programa"
 
 function ctrl_c(){
 	echo -e "\n\n${redColour}[!] Saliendo...${endColour}\n"
